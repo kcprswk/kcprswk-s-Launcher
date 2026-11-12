@@ -44,8 +44,7 @@ Requires Windows and the .NET 10 SDK.
 
 ## Contact
 
-Maintainer: [YOUR GITHUB USERNAME]
-Email: [YOUR CONTACT EMAIL]
+Maintainer: kcprswk
 
 ## Disclaimer
 
